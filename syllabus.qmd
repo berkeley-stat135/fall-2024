@@ -2,7 +2,7 @@
 title: "Syllabus"
 ---
 
-Download full syllabus
+ <a href="Syllabus2024Fall.pdf" target='_blank'>Download full syllabus</a><br>
 
 <!--Jump to:
 
