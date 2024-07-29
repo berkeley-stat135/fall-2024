@@ -24,17 +24,7 @@
     "href": "syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "Jump to:",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#about-stat-135",
-    "href": "syllabus.html#about-stat-135",
-    "title": "Syllabus",
-    "section": "About Stat 135",
-    "text": "About Stat 135\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum.\n\nGoals\n\nGoal 1\nGoal 2\nGoal 3\n\n\n\nPrerequisites\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum.",
+    "text": "Download full syllabus\n\n\nLearning goals\n\nInterpret point estimates, confidence intervals, and hypothesis tests clearly for an audience without statistical training.\nConstruct common estimators, statistical tests and confidence interval procedures using probability theory.\nEvaluate the relative strengths and limitations of several estimation or inference procedures for the same problem using mathematical concepts including unbiasedness, efficiency, and power.\nRecommend an approach and carry out estimation and inference for canonical statistics problems including tests of association between two variables and fitting probability distributions to univariate data.\n\n\n\nPrerequisites\n\nSTAT 134 or an equivalent course in probability theory.\nMultivariable calculus, especially Lagrange multipliers.\nFamiliarity with moment-generating functions.\nFamiliarity with linear algebra (matrix operations, inverses, and eigenvalues) for chapter 14.\nFamiliarity with basic R concepts equivalent to the first ~6 weeks of Stat 133. Unless otherwise noted assignments involving computing must be completed in R.",
     "crumbs": [
       "Syllabus"
     ]
