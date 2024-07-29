@@ -2,7 +2,9 @@
 title: "Syllabus"
 ---
 
-Jump to:
+Download full syllabus
+
+<!--Jump to:
 
 - [About Stat 135](#about)
   - [Goals](#goals)
@@ -11,15 +13,22 @@ Jump to:
 
 ## About Stat 135
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum. -->
 
-### Goals
+### Learning goals
 
 
-- Goal 1
-- Goal 2
-- Goal 3
+- Interpret point estimates, confidence intervals, and hypothesis tests clearly for an audience without statistical training.
+- Construct common estimators, statistical tests and confidence interval procedures using probability theory.
+- Evaluate the relative strengths and limitations of several estimation or inference procedures for the same problem using mathematical concepts including unbiasedness, efficiency, and power.
+- Recommend an approach and carry out estimation and inference for canonical statistics problems including tests of association between two variables and fitting probability distributions to univariate data. 
+
 
 ### Prerequisites
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum. 
+- **STAT 134 or an equivalent course in probability theory.** 
+- Multivariable calculus, especially Lagrange multipliers.
+- Familiarity with moment-generating functions.
+- Familiarity with linear algebra (matrix operations, inverses, and eigenvalues) for chapter 14. 
+- Familiarity with basic R concepts equivalent to the first ~6 weeks of Stat 133. Unless otherwise noted assignments involving computing must be completed in R.
+
