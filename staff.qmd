@@ -10,13 +10,14 @@ Office hours are subject to change.
 ::: {.grid}
 
 ::: {.g-col-4}
-**Instructor:** <a href="https://statistics.berkeley.edu" target='_blank'>Person X</a><br>
-`x@berkeley.edu`<br>
+**Instructor:** <a href="https://www.stat.berkeley.edu/~spi/" target='_blank'>Sam Pimentel</a><br>
+`spi@berkeley.edu`<br>
 Office hours: <br>
-- Thursday 3pm-5pm, Evans 309 <br>
-- Friday 2:00pm-4:30pm, Evans 309<br>
+- Wednesday 11am-12pm, Evans 429 <br>
+- Thursday 12pm-1pm, Evans 429<br>
 :::
 
+<!--
 ::: {.g-col-4}
 **GSI**: <a href="http://statistics.berkeley.edu" target="_blank">Person Y</a><br>
 `y@berkeley.edu`<br>
@@ -42,6 +43,6 @@ Office hours: <br>
 - Wednesday 10am-2pm, Evans 432<br>
 - Thursday 3-5pm, Evans 434
 :::
-
+-->
 :::
 
