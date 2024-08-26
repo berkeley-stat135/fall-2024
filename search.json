@@ -1,15 +1,5 @@
 [
   {
-    "objectID": "staff.html",
-    "href": "staff.html",
-    "title": "Staff",
-    "section": "",
-    "text": "Office hours are subject to change.\n\n\n\nInstructor: Sam Pimentel spi@berkeley.edu Office hours:  - Wednesday 11am-12pm, Evans 429  - Thursday 12pm-1pm, Evans 429",
-    "crumbs": [
-      "Staff"
-    ]
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Statistics 135: Concepts of Statistics",
@@ -17,6 +7,16 @@
     "text": "bCourses\n\n  Ed\n\n  Gradescope\n\n\nNo matching items\n\n\nStatistics 135 is a comprehensive survey course in statistical theory and methodology. Topics include parameter estimation, hypothesis testing, statistical tests (parametric and nonparametric) and linear regression (single and multiple). We will cover most of chapters 7,8,9,11,12,13 and 14 in the textbook, Mathematical Statistics and Data Analysis, Third Edition, by John A. Rice.",
     "crumbs": [
       "Home"
+    ]
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
+    "crumbs": [
+      "License"
     ]
   },
   {
@@ -30,13 +30,13 @@
     ]
   },
   {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "License",
+    "objectID": "staff.html",
+    "href": "staff.html",
+    "title": "Staff",
     "section": "",
-    "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
+    "text": "Office hours are subject to change.\n\n\n\nInstructor: Sam Pimentel spi@berkeley.edu Office hours:  - Wednesday 11am-12pm, Evans 429  - Thursday 12pm-1pm, Evans 429",
     "crumbs": [
-      "License"
+      "Staff"
     ]
   }
 ]
