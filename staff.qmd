@@ -12,30 +12,32 @@ Office hours are subject to change.
 ::: {.g-col-4}
 **Instructor:** <a href="https://www.stat.berkeley.edu/~spi/" target='_blank'>Sam Pimentel</a><br>
 `spi@berkeley.edu`<br>
+Preferred pronouns: he/him <br>
 Office hours: <br>
 - Wednesday 11am-12pm, Evans 429 <br>
 - Thursday 12pm-1pm, Evans 429<br>
 :::
 
-<!--
+
 ::: {.g-col-4}
-**GSI**: <a href="http://statistics.berkeley.edu" target="_blank">Person Y</a><br>
-`y@berkeley.edu`<br>
+**GSI**: <a href="http://statistics.berkeley.edu" target="_blank">Fangyuan Li</a><br>
+`fangyuan_li@berkeley.edu`<br>
+Preferred pronouns: she/her <br>
 Office hours:<br>
-- Monday 11am-12pm, Evans 432<br>
-- Tuesday 4pm-5pm, Evans 432<br>
-- Wednesday 2pm-3pm, Evans 432<br>
-- Friday 12pm-1pm, Evans 432
+- Monday 12-2pm, Evans 446<br>
+- Wednesday 12-2pm, Evans 446<br>
 :::
+
 
 ::: {.g-col-4}
-**Tutor:** Person Z<br>
-`z@berkeley.edu`<br>
+**GSI:** Owen Lin<br>
+`shaochen_lin@berkeley.edu`<br>
+Preferred pronouns: he/him <br>
 Office hours: <br>
-- Wednesday 2:30pm - 4:30pm, Evans 434<br>
-- Sunday 2pm - 6pm, <a href="https://berkeley.zoom.us/j/99887452083?pwd=T1pXWC9HZFpTRHQzc1MrOElUakFUdz09">Zoom</a>
+- Tuesday 9-11am, Evans 446<br>
+- Thursday 9-11am, Evans 446<br>
 :::
-
+<!--
 ::: {.g-col-4}
 **Tutor**: Person W<br>
 `w@berkeley.edu`<br>
