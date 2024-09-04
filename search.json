@@ -1,12 +1,12 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Statistics 135: Concepts of Statistics",
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
     "section": "",
-    "text": "bCourses\n\n  Ed\n\n  Gradescope\n\n\nNo matching items\n\n\nStatistics 135 is a comprehensive survey course in statistical theory and methodology. Topics include parameter estimation, hypothesis testing, statistical tests (parametric and nonparametric) and linear regression (single and multiple). We will cover most of chapters 7,8,9,11,12,13 and 14 in the textbook, Mathematical Statistics and Data Analysis, Third Edition, by John A. Rice.",
+    "text": "Download full syllabus\n\n\nLearning goals\n\nInterpret point estimates, confidence intervals, and hypothesis tests clearly for an audience without statistical training.\nConstruct common estimators, statistical tests and confidence interval procedures using probability theory.\nEvaluate the relative strengths and limitations of several estimation or inference procedures for the same problem using mathematical concepts including unbiasedness, efficiency, and power.\nRecommend an approach and carry out estimation and inference for canonical statistics problems including tests of association between two variables and fitting probability distributions to univariate data.\n\n\n\nPrerequisites\n\nSTAT 134 or an equivalent course in probability theory.\nMultivariable calculus, especially Lagrange multipliers.\nFamiliarity with moment-generating functions.\nFamiliarity with linear algebra (matrix operations, inverses, and eigenvalues) for chapter 14.\nFamiliarity with basic R concepts equivalent to the first ~6 weeks of Stat 133. Unless otherwise noted assignments involving computing must be completed in R.",
     "crumbs": [
-      "Home"
+      "Syllabus"
     ]
   },
   {
@@ -20,16 +20,6 @@
     ]
   },
   {
-    "objectID": "syllabus.html",
-    "href": "syllabus.html",
-    "title": "Syllabus",
-    "section": "",
-    "text": "Download full syllabus\n\n\nLearning goals\n\nInterpret point estimates, confidence intervals, and hypothesis tests clearly for an audience without statistical training.\nConstruct common estimators, statistical tests and confidence interval procedures using probability theory.\nEvaluate the relative strengths and limitations of several estimation or inference procedures for the same problem using mathematical concepts including unbiasedness, efficiency, and power.\nRecommend an approach and carry out estimation and inference for canonical statistics problems including tests of association between two variables and fitting probability distributions to univariate data.\n\n\n\nPrerequisites\n\nSTAT 134 or an equivalent course in probability theory.\nMultivariable calculus, especially Lagrange multipliers.\nFamiliarity with moment-generating functions.\nFamiliarity with linear algebra (matrix operations, inverses, and eigenvalues) for chapter 14.\nFamiliarity with basic R concepts equivalent to the first ~6 weeks of Stat 133. Unless otherwise noted assignments involving computing must be completed in R.",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
     "objectID": "staff.html",
     "href": "staff.html",
     "title": "Staff",
@@ -37,6 +27,16 @@
     "text": "Office hours are subject to change.\n\n\n\nInstructor: Sam Pimentel spi@berkeley.edu Preferred pronouns: he/him  Office hours:  - Wednesday 11am-12pm, Evans 429  - Thursday 12pm-1pm, Evans 429\n\n\nGSI: Fangyuan Li fangyuan_li@berkeley.edu Preferred pronouns: she/her  Office hours: - Monday 12-2pm, Evans 446 - Wednesday 12-2pm, Evans 446\n\n\nGSI: Owen Lin shaochen_lin@berkeley.edu Preferred pronouns: he/him  Office hours:  - Tuesday 9-11am, Evans 446 - Thursday 9-11am, Evans 446",
     "crumbs": [
       "Staff"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Statistics 135: Concepts of Statistics",
+    "section": "",
+    "text": "bCourses\n\n  Ed\n\n  Gradescope\n\n\nNo matching items\n\n\nStatistics 135 is a comprehensive survey course in statistical theory and methodology. Topics include parameter estimation, hypothesis testing, statistical tests (parametric and nonparametric) and linear regression (single and multiple). We will cover most of chapters 7,8,9,11,12,13 and 14 in the textbook, Mathematical Statistics and Data Analysis, Third Edition, by John A. Rice.",
+    "crumbs": [
+      "Home"
     ]
   }
 ]
