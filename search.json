@@ -10,16 +10,6 @@
     ]
   },
   {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "License",
-    "section": "",
-    "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
-    "crumbs": [
-      "License"
-    ]
-  },
-  {
     "objectID": "staff.html",
     "href": "staff.html",
     "title": "Staff",
@@ -37,6 +27,16 @@
     "text": "bCourses\n\n  Ed\n\n  Gradescope\n\n\nNo matching items\n\n\nStatistics 135 is a comprehensive survey course in statistical theory and methodology. Topics include parameter estimation, hypothesis testing, statistical tests (parametric and nonparametric) and linear regression (single and multiple). We will cover most of chapters 7,8,9,11,12,13 and 14 in the textbook, Mathematical Statistics and Data Analysis, Third Edition, by John A. Rice.",
     "crumbs": [
       "Home"
+    ]
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
+    "crumbs": [
+      "License"
     ]
   }
 ]
